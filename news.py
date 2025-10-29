@@ -1,4 +1,4 @@
-import json, re
+import json, time
 import requests
 from bs4 import BeautifulSoup
 import schedule
